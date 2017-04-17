@@ -1,10 +1,4 @@
 {
     "name":"intelect-central",
-    "repository": "https://github.com/benitezpump/cascaron-python",
-    "buildpacks": [
-        {
-            "url": "heroku/python"
-        }
-    ],
-    "image": "heroku/python"
+    "repository": "https://github.com/benitezpump/cascaron-python"
 }
