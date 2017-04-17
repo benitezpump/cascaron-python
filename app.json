@@ -1,0 +1,11 @@
+{
+    "name":"intelect-central",
+    "addons": ["heroku-postgresql:hobby-dev", "papertrail"],
+    "repository": "https://github.com/benitezpump/cascaron-python",
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "image": "heroku/python"
+}
